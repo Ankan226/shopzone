@@ -53,49 +53,35 @@ routing and cross-component state management.
 ## Screenshots
 
 ### Home
-![Home page](screenshots/home.png)
+<img width="1128" height="880" alt="image" src="https://github.com/user-attachments/assets/9afc2671-87e1-4def-aaf5-46b0ec20e9cc" />
+
 
 ### Shop
-![Shop grid](screenshots/shop.png)
+<img width="1120" height="625" alt="image" src="https://github.com/user-attachments/assets/88d2b583-f6f5-42d2-b2c1-8784093507bd" />
+
 
 ### Product Detail
-![Product detail page](screenshots/product-detail.png)
+<img width="1097" height="877" alt="image" src="https://github.com/user-attachments/assets/0cb124a2-b1ae-4736-bb3c-847fc881c6a1" />
+
 
 ### Cart
-![Cart page](screenshots/cart.png)
+<img width="1283" height="641" alt="image" src="https://github.com/user-attachments/assets/9a4eae7a-d2dc-49cf-8d98-fd625ac97470" />
+
 
 ### Login (Mock Auth)
-![Login page](screenshots/login.png)
+<img width="1362" height="482" alt="image" src="https://github.com/user-attachments/assets/47c43a8e-7d1a-4fc8-8986-a40581f7db46" />
+
 
 ### Checkout (Protected Route)
-![Checkout page](screenshots/checkout.png)
+<img width="1363" height="482" alt="image" src="https://github.com/user-attachments/assets/6c3de537-5cd6-4dc5-bd3a-6bd3cc1448ac" />
+
 
 ---
 
 ## Project Structure
 
-shopzone/
-├── vercel.json
-├── Prompts.md
-├── README.md
-└── src/
-├── main.jsx
-├── App.jsx
-├── index.css
-├── context/
-│ ├── CartContext.jsx
-│ └── AuthContext.jsx
-├── components/
-│ ├── Navbar.jsx
-│ └── ProtectedRoute.jsx
-└── pages/
-├── Home.jsx
-├── Shop.jsx
-├── ProductDetail.jsx
-├── Cart.jsx
-├── Contact.jsx
-├── Login.jsx
-└── Checkout.jsx
+<img width="193" height="721" alt="image" src="https://github.com/user-attachments/assets/43346ee2-cdfd-44db-84db-361162a8a276" />
+
 
 ---
 
